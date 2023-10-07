@@ -190,7 +190,13 @@ pre {
   }
 }
 
-
+.highlighter-rouge {
+  background-color: rgb(218, 254, 219);
+  //border: 2px solid #b3ffe6;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
 
 /**
  * Wrapper
